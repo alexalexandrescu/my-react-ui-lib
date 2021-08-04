@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import UIButton from '../components/uibutton'
+import { UIButton } from '../components'
 
 export default function Home() {
   return (
